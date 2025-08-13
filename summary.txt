@@ -1,0 +1,11 @@
+--- Final Summary Report ---
+Total wall-clock time taken: 33.06 seconds
+
+Total unique claims processed: 1695
+  - Approved: 793
+  - Rejected: 113
+  - Escalated (max retries): 788
+
+Total suspicious claims detected: 0
+Total amount paid (approved claims): ₹104,703,547.00
+Average processing attempts per claim: 38.92
